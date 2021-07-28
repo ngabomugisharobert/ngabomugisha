@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngabomugisha&label=Profile%20views&color=0e75b6&style=flat" alt="ngabomugisha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kingrobert250" target="blank"><img src="https://img.shields.io/twitter/follow/kingrobert250?logo=twitter&style=for-the-badge" alt="kingrobert250" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ngabo_mugisha" target="blank"><img src="https://img.shields.io/twitter/follow/kingrobert250?logo=twitter&style=for-the-badge" alt="kingrobert250" /></a> </p>
 
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kingrobert250/) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send/?phone=%2B250786248680&text&app_absent=0)  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ngabo-mugisha-robert-877a72122/) 
