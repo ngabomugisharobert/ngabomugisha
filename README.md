@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **JS And Python PROJECTS**
 
-- 👨‍💻 some of my projects are available at [https://nmrobert.com/](https://nmrobert.com/)
+<!-- - 👨‍💻 some of my projects are available at [https://nmrobert.com/](https://nmrobert.com/) -->
 
 - 💬 Ask me about **ANYTHING**
 
