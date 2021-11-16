@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **ANYTHING**
 
-- 📫 How to reach me **info@nmrobert.com**
+<!-- - 📫 How to reach me **info@nmrobert.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
