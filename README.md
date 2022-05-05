@@ -29,7 +29,6 @@
 <a href="https://instagram.com/kingrobert250" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kingrobert250" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kingrobert250" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kingrobert250" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngabomugisha&show_icons=true&locale=en&layout=compact" alt="ngabomugisha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngabomugisha&" alt="ngabomugisha" /></p>
 
